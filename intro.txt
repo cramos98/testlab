@@ -1,2 +1,6 @@
+master
 Hello, World!
 Christopher Ramos - Information Technology
+
+Hello, World! My name is Manthan Gandhi and I am majoring in IT at NJIT.
+master
